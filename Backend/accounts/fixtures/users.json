@@ -1,0 +1,21 @@
+[
+{
+    "model": "accounts.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$PbHCnynDFxgWxuRkjXQRf9$rYZKJa5Cph8RhEECfqXBUqT8xHjPgghPROlkb6kft4c=",
+        "last_login": "2021-10-25T12:53:28.029Z",
+        "first_name": "",
+        "last_name": "",
+        "profile_image": "",
+        "contact_number": "0",
+        "address": "",
+        "is_deleted": false,
+        "email": "neptics.np@gmail.com",
+        "is_active": true,
+        "staff": true,
+        "admin": true,
+        "is_email_verified": true
+    }
+}
+]
